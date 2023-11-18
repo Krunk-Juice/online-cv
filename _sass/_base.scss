@@ -163,7 +163,8 @@ p {
 .main-wrapper {
   grid-column: span 7;
   order: $resume-order;
-  background: #fff;
+  //background: #fff;
+  background: $smoky-grey;
   padding: 60px;
   .section-title {
     text-transform: uppercase;
