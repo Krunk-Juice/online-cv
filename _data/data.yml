@@ -63,7 +63,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MS of Computer Science
+      - degree: Master of Science in Computer Science
         university: California State University, Fullerton
         time: 2018 - 2022
         details: |
@@ -74,7 +74,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BS of Biology
+      - degree: Bachelor of Science in Biology
         university: University of California, Riverside
         time: 2010 - 2014
         details: |
