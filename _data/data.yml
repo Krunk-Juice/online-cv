@@ -54,12 +54,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A technologically driven individual. Starting as a biology student, and 
+      transitioning to a computer scientist. I have had the priveledge of 
+      learning from many great teachers that have provided me the tools and to
+      guidance to problem-solve through various complex issues. I have 
+      volunteered with various health organizations to provide patient care. 
+      During my time as a graduate student at CSUF I had the oportunity to 
+      instruct a computer science compilers and languages course for one 
+      semester. At the end of my time at CSUF, my advisor would guide and 
+      instruct me on how to develop a conference paper that I would author, 
+      present at the 2023 IEEE World AI IoT Congress, and publish at IEEE 
+      Xplore® digital library.
+        
 education:
     title: Education
     info:
