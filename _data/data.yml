@@ -116,39 +116,42 @@ experiences:
             - Utilized Canvas to distribute assignments and projects for 
               students. Canvas also served as a way to provide up to date 
               results of student grades.  
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Volunteer
+        time: December 2014 - March 2015
+        company: Project Vietnam Foundation, Fountain Valley
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Volunteered at Fountain Valley Regional Medical Center for Pediatrics.
+          Contributed to organization by processing participants’ resumes, 
+          planning travel assignments, and distributing visas for the workers as 
+          they prepared for their mobile care assignment.
+      - role: Volunteer
+        time: February 2012 - November 2014
+        company: COPE Health Scholar, Los Angeles
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Volunteered at Queen of the Valley Hospital in ICU, Pediatrics, 
+          Postpartum Care, and Pre-Op. Worked alongside registered nurses and 
+          certified nursing assistants to move patients, deliver meals and 
+          beverages, deliver laboratory specimens, and prep/clean rooms for new 
+          patients.
+      - role: Volunteer
+        time: August 2013
+        company: Social Assistance Program for Vietnam (SAP-VN), Vietnam
+        details: |
+          Volunteered as a dental assistant. Prep/clean dental tools and directly 
+          assisted the dentist as they operated on the patients. Traveled with the 
+          SAP-VN volunteer team/mobile care unit to Vietnam in order to provide 
+          medical assistance to the local populace.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Fundamentals of Deep Learning
+          start: 2023
+          end:
+          organization: NVIDIA
+          credentialid: 7124a1eaf6f04bf591b80aa0aaca0f89
+          credentialurl: https://courses.nvidia.com/certificates/7124a1eaf6f04bf591b80aa0aaca0f89/
+          credentialname: NVIDIA DLI Certificate
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
