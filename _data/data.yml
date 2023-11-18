@@ -99,17 +99,23 @@ experiences:
         time: January 2022 - May 2022
         company: California State University, Fullerton
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Instructed 28 students for the Compilers and Languages course as 
+          the lecturer/professor. Worked with and accommodated special 
+          needs students during both hybrid and in-person instruction. 
+            - Developed a course plan to follow throughout the university 
+              semester. The course encompasses lexical analysis, syntax 
+              analysis, how to create and implement finite state machines, and 
+              the implementation of three top-down parsers (a recursive decent 
+              parser, a predictive recursive decent parser, and a table-driven 
+              parser). 
+            - Hosted weekly office hours for students to ask questions, 
+              and provided additional lines of communication for students to 
+              ask questions throughout the week.
+            - Created and graded assignments, projects, and exams that used 
+              various C++ and Python syntax and pseudocode.
+            - Utilized Canvas to distribute assignments and projects for 
+              students. Canvas also served as a way to provide up to date 
+              results of student grades.  
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
