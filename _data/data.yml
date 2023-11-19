@@ -180,8 +180,8 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-      List of projects:
+    #intro: >
+    #  List of projects:
     assignments:
       - title: Velocity
         link: "#hook"
@@ -224,8 +224,8 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      List of publications:
+    #intro: |
+    #  List of publications:
     papers:
       - title: Exploring Machine Learning Techniques for Fall Risk Prediction using the Berg Balance Scale
         link: "https://ieeexplore.ieee.org/document/10174419"
