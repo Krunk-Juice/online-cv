@@ -232,7 +232,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      List of publications in this section.
+      List of publications:
     papers:
       - title: Exploring Machine Learning Techniques for Fall Risk Prediction using the Berg Balance Scale
         link: "https://ieeexplore.ieee.org/document/10174419"
