@@ -255,13 +255,13 @@ skills:
       - name: Anaconda
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
       - name: Java
+        level: 75%
+
+      - name: Dart
+        level: 70%
+
+      - name: GLSL
         level: 60%
 
 footer: >
