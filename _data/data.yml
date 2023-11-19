@@ -230,7 +230,7 @@ publications:
       - title: Exploring Machine Learning Techniques for Fall Risk Prediction using the Berg Balance Scale
         link: "https://ieeexplore.ieee.org/document/10174419"
         authors: Christopher Ta, Rong Jin
-        conference: [2023 IEEE World AI IoT Congress](https://worldaiiotcongress.org/)
+        conference: 2023 IEEE World AI IoT Congress
 
       #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
       #  link: "#"
