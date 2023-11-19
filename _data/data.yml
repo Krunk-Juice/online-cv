@@ -150,7 +150,7 @@ certifications:
           end:
           organization: NVIDIA
           credentialid: 7124a1eaf6f04bf591b80aa0aaca0f89
-          credentialurl: https://courses.nvidia.com/certificates/7124a1eaf6f04bf591b80aa0aaca0f89/
+          credentialurl: courses.nvidia.com/certificates/7124a1eaf6f04bf591b80aa0aaca0f89/
           credentialname: NVIDIA DLI Certificate
           details: |
             Understand how deep learning works through hands-on exercises in computer vision and
@@ -181,9 +181,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of projects:
     assignments:
       - title: Velocity
         link: "#hook"
