@@ -202,6 +202,18 @@ projects:
       - title: Money Trail CRM
         link: "https://github.com/Dpham181/CPSC-462-GROUP-2"
         tagline: "A console-based client relationship management system in C++, following the model-view-controller design pattern."
+      
+      - title: Ray Tracing & Shadows
+        link: "https://github.com/Krunk-Juice/Ray-Tracing-Shadows"
+        tagline: "A project in which images produced have ambient, diffuse, and specular lighting (Blinn-Phong model)."
+
+      - title: OpenGL Transformations
+        link: "#"
+        tagline: "A project using OpenGL, to display and move the object/shape in the OpenGL window. Move the camera position in the OpenGL window. Transform the shape in the OpenGL window."
+
+      - title: CSUF SWAP
+        link: "https://github.com/Krunk-Juice/CSUF-Parking-App"
+        tagline: "A school parking app developed for Android and iOS."
 
 #oss:
 #    title: OSS Contributions
