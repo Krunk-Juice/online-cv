@@ -25,11 +25,11 @@ a {
   &:hover {
     text-decoration: underline;
     //color: darken($theme-color, 30%);
-    color: darken($theme-color, 15%);
+    color: darken($theme-color, 10%);
   }
   &:focus {
     text-decoration: none;
-    color: darken($theme-color, 30%);
+    color: darken($theme-color, 20%);
   }
 }
 
