@@ -76,7 +76,7 @@ There are 6 color schemes available:
 |---------|---------|---------|
 | <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
 
-Change color schemes through [_config.yml](https://github.com/sharu725/online-cv/_config.yml)
+Change color schemes through [_config.yml](https://github.com/krunk-juice/online-cv/_config.yml).
 
 ## Credits
 
