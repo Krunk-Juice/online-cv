@@ -183,15 +183,15 @@ projects:
     #intro: >
     #  List of projects:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: An Alternative Way of performing BBS
+        link: "Alternative-Way-of-performing-BBS"
+        tagline: "An investigation of the use of smaller subsets of the Berg Balance Scale by applying machine learning techniques."
 
-      - title: DevStudio
+      - title: The Ethical Evaluation of Digital Twins in Healthcare
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A writing which dives into the ethics of the possibility of using digital twins for patients in the healthcare field."
 
-      - title: Tempo
+      - title: Testing of Lichess.org
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
