@@ -195,13 +195,13 @@ projects:
         link: "https://github.com/victorvantran/lichess_selenium"
         tagline: "A project using Selenium WebDriver and Python, to test the website Lichess.org."
 
-      - title: Atom
+      - title: My Health Buddy
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A concept project which would develop a mobile app along with the use of a sensor device to measure and keep track of a user's vitals."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Money Trail CRM
+        link: "https://github.com/Dpham181/CPSC-462-GROUP-2"
+        tagline: "A console-based client relationship management system in C++, following the model-view-controller design pattern."
 
 #oss:
 #    title: OSS Contributions
