@@ -29,6 +29,7 @@ a {
   }
   &:focus {
     text-decoration: none;
+    color: $theme-color;
   }
 }
 
