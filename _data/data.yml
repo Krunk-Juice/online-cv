@@ -42,13 +42,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Tennis
-          link:
-
         - item: Technology
           link:
 
-        - item: Food
+        - item: Tennis
+          link:
+
+        - item: Video Games
           link:
 
 career-profile:
