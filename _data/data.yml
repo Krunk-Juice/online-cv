@@ -278,18 +278,36 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Windows
+        level: 98%
+      
       - name: C & C++
         level: 95%
 
       - name: Python
         level: 95%
 
+      - name: Visual Studio
+        level: 90%
+
+      - name: Linux
+        level: 85%  
+
       - name: Anaconda
         level: 80%
+
+      - name: x86 Assembly
+        level: 78%
 
       - name: Java
         level: 75%
 
+      - name: LaTeX
+        level: 75%
+
+      - name: Selenium
+        level: 70%
+      
       - name: Dart
         level: 70%
 
