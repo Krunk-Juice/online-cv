@@ -217,7 +217,7 @@ projects:
 
       - title: Lexical Analyzer
         link: "https://github.com/Krunk-Juice/Lexical-Analyzer-v2"
-        tagline: "Part 1 of the Predictive Parser, where a string is tokenized for syntax analysis (Part 2)."
+        tagline: "Part 1 of the Predictive Parser, where a string is tokenized for syntax analysis."
 
       - title: Syntactic Analyzer & Predictive Parser
         link: "https://github.com/Krunk-Juice/Syntactic-Analyzer-Predictive-Parser"
