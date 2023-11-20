@@ -223,6 +223,18 @@ projects:
         link: "https://github.com/Krunk-Juice/Syntactic-Analyzer-Predictive-Parser"
         tagline: "Part 2 of the Predictive Parser, where the tokenized string is parsed to see if it is accepted grammar."
 
+      - title: Computer Builder Expert System
+        link: "#"
+        tagline: "A concept project of an expert system that could simluate and experienced computer builder."
+      
+      - title: Rewriting Greeting Cards
+        link: "https://github.com/Krunk-Juice/Rewriting-Greeting-Cards"
+        tagline: "A small console program that rewrites greeting cards by replacing key terms with other words."
+
+      - title: Cumulative Frequencies
+        link: "https://github.com/Krunk-Juice/Cumluative-Frequencies"
+        tagline: "A small console program that counts the number of occurrences a word and its synonyms appear in a text."
+
 #oss:
 #    title: OSS Contributions
 #    intro: >
