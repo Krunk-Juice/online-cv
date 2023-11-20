@@ -191,7 +191,7 @@ projects:
         link: "#"
         tagline: "A writing which dives into the ethics of the possibility of using digital twins for patients in the healthcare field."
 
-      - title: Testing of Lichess.org
+      - title: Selenium on Lichess.org
         link: "https://github.com/victorvantran/lichess_selenium"
         tagline: "A project using Selenium WebDriver and Python, to test the website Lichess.org."
 
