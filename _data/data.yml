@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: krunk-juice.github.io/Resume #http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
