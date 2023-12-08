@@ -17,7 +17,7 @@ sidebar:
     phone: 626 506 7355
     timezone: Pacific Time Zone
     citizenship: United States Citizen
-    website: krunk-juice.github.io/online-cv/ #do not add http://
+    website: krunk-juice.github.io #do not add http://
     linkedin: chris-ta
     xing: 
     github: krunk-juice
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+    pdf: krunk-juice.github.io/Resume #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
