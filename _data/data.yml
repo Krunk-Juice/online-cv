@@ -301,6 +301,9 @@ skills:
 
       - name: Java
         level: 75%
+        
+      - name: JavaScript
+        level: 75%
 
       - name: LaTeX
         level: 75%
