@@ -308,6 +308,9 @@ skills:
       - name: LaTeX
         level: 75%
 
+      - name: Docker
+        level: 75%
+
       - name: Selenium
         level: 70%
       
