@@ -299,6 +299,9 @@ skills:
       - name: x86 Assembly
         level: 78%
 
+      - name: Docker
+        level: 75%
+
       - name: Java
         level: 75%
         
@@ -306,9 +309,6 @@ skills:
         level: 75%
 
       - name: LaTeX
-        level: 75%
-
-      - name: Docker
         level: 75%
 
       - name: Selenium
