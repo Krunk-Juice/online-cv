@@ -71,7 +71,7 @@ education:
     info:
       - degree: Master of Science in Computer Science
         university: California State University, Fullerton
-        time: 2018 - 2022
+        time: Aug 2018 - Jan 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +80,20 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: No degree
+        university: Mount San Antonio College
+        time: Feb 2016 - Jun 2018
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point      
       - degree: Bachelor of Science in Biology
         university: University of California, Riverside
-        time: 2010 - 2014
+        time: Sep 2010 - Jun 2014
         details: |
           Completed the UCR College of Natural & Agricultual Sciences Biology 
           course plan requiring all general education english, humanities, and 
