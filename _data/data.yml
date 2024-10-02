@@ -240,7 +240,7 @@ projects:
       
       - title: Rewriting Greeting Cards
         link: "https://github.com/Krunk-Juice/Rewriting-Greeting-Cards"
-        tagline: "A small console program that rewrites greeting cards by replacing key terms with other words."
+        tagline: "A small console program that rewrites greeting cards by replacing key terms with interchangeable words."
 
       - title: Cumulative Frequencies
         link: "https://github.com/Krunk-Juice/Cumluative-Frequencies"
