@@ -194,6 +194,14 @@ projects:
     #intro: >
     #  List of projects:
     assignments:
+      - title: Landing Page
+        link: "https://github.com/Krunk-Juice/Resume"
+        tagline: "A landing page to connect my online resume and curriculum vitae."
+
+      - title: Resume Webpage
+        link: "https://github.com/Krunk-Juice/Resume"
+        tagline: "An online version of my resume."
+
       - title: An Alternative Way of performing BBS
         link: "https://github.com/Krunk-Juice/Alternative-Way-of-performing-BBS"
         tagline: "An investigation of the use of smaller subsets of the Berg Balance Scale by applying machine learning techniques."
