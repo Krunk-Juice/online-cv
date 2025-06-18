@@ -17,7 +17,7 @@ sidebar:
     phone: 626 506 7355
     timezone: America/Los_Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: United States Citizen
-    website: https://krunk-juice.github.io/ # Include the full website URL, including "http://" or "https://".
+    website: krunk-juice.github.io/ # Do not add https:// (Only works with https://, otherwise edit in _includes/contact.html) ### Include the full website URL, including "http://" or "https://".
     linkedin: chris-ta
     xing: 
     github: krunk-juice
