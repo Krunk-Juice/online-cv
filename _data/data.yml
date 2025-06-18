@@ -323,6 +323,9 @@ skills:
 
       - name: Java
         level: 75%
+
+      - name: C#
+        level: 75%
         
       - name: JavaScript
         level: 75%
