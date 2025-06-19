@@ -49,8 +49,8 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   order: $sidebar-order;
-  //background: $theme-color;
-  background: darken($theme-color, 10%);
+  //background: darken($theme-color, 10%);
+  background: $theme-color;
   color: #fff;
   a {
     color: #fff;
@@ -58,7 +58,8 @@ p {
   .profile-container {
     padding: 30px;
     //background: rgba(0, 0, 0, 0.2);
-    background: $theme-color;
+    //background: $theme-color;
+    background: darken($theme-color, 10%);
     text-align: center;
     color: #fff;
   }
