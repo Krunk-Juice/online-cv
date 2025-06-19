@@ -165,8 +165,8 @@ p {
 .main-wrapper {
   grid-column: span 7;
   order: $resume-order;
-  //background: $smoky-grey;
-  background: #fff;
+  background: $smoky-grey;
+  //background: #fff;
   padding: 60px;
   .section-title {
     text-transform: uppercase;
