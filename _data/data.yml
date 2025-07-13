@@ -316,14 +316,17 @@ skills:
       - name: Linux
         level: 85%  
 
+      - name: Docker
+        level: 85%
+
       - name: Anaconda
         level: 80%
 
       - name: x86 Assembly
         level: 78%
 
-      - name: Docker
-        level: 75%
+      - name: Tailscale
+        level: 85%
 
       - name: Java
         level: 75%
